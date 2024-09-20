@@ -16,9 +16,10 @@ sustained growth. Join us in this endeavor as we delve into the intricacies of s
 analysis and illuminate the path to informed decision-making within the gaming realm.
 
 
-Dataset can be found [here](https://nijianmo.github.io/amazon/index.html)
+Dataset can be found [here](https://nijianmo.github.io/amazon/index.html) with name "Video Games" under the files section.
 
 This project was implemented under the supervision of Maria Halkidi:
 
-1.[Linkedin](https://www.linkedin.com/in/maria-halkidi-363a8037/?originalSubdomain=gr)
-2.[Google Scholar](https://scholar.google.com/citations?user=FknZ1Q8AAAAJ&hl=en)
+[Linkedin](https://www.linkedin.com/in/maria-halkidi-363a8037/?originalSubdomain=gr)
+
+[Google Scholar](https://scholar.google.com/citations?user=FknZ1Q8AAAAJ&hl=en)
