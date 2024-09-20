@@ -1,6 +1,6 @@
 # Overview
 
-As the [paper]() explains Sentiment analysis plays a pivotal role in understanding customer perceptions within the 
+As the [paper](https://github.com/Dimitris-STAT/Experimental-Sentiment-Analysis-on-video-game-reviews/blob/main/Experimental_Sentiment_Analysis_on_customer_reviews.pdf) explains Sentiment analysis plays a pivotal role in understanding customer perceptions within the 
 dynamic gaming industry. In this study, we embark on an in-depth comparative analysis 
 of five prominent supervised machine learning techniques: Support Vector Machines 
 (SVM), Logistic Regression, Extreme Gradient Boosting (XGBoost), Random Forests, 
